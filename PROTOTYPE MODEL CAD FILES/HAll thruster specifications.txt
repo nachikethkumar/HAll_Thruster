@@ -1,0 +1,67 @@
+Hall_Thruster_Calculation
+
+T =
+
+    0.0800
+
+
+Vd =
+
+   500
+
+
+Isp =
+
+        1200
+
+
+Vc =
+
+   300
+
+
+Vmag =
+
+   350
+
+Atom Temperature is(Kelvin)=1150.000000
+Electron Temperature is(eV)=14.666667
+ionization reaction rate of atoms is(m^3/s)=0.000000
+acceleration potential of ion in acceleration layer is(Volts)=151.480400
+Velocity of ion is(m/s)=27108.904047
+Velocity of Atom is(m/s)=430.539698
+Velocity of Electron is(m/s)=2562347.787902
+Total mass flow rate of propallent is(kg/sec)=0.000007
+Anode mass flow rate is (Kg/sec)=0.000006
+Cathode mass flow rate is (Kg/sec)=0.000001
+Mean diameter of the hall thruster is (m)=0.109779
+Channel width is (m)=0.027445
+Channel thickness is (m)=0.010978
+Channel length is (m)=0.049401
+Total diameter of the hall thruster is (m)=0.219558
+Total length of the hall thruster is(m)=0.109779
+Current to anode of thruster is(A)=4.540158
+Discharge current of thruster is (A)=5.902205
+Discharge power of thruster is (Watts)=2951.102716
+Cathode efficiency of thruster=0.909091
+Jet power of the thruster is (Watts)=470.880000
+Acceleration power of the thruster is(Watts)=523.200000
+currents that hits the channel walls is (A)=1.086246
+length of the accleration layer is (m)=0.035020
+Required Electric field for the thruster (V/m)=4325.542945
+Required magnetic field for the thruster (Tesla)=0.015222
+Larmor radius of ion(m)=25.403543
+Larmor radius of electron(m)=0.000106
+Beam power is(watts)=685.807053
+Power to channel walls(watts)=336.045456
+Power to anode(Watts)=7.968738
+Power to ions(watts)=54.212199
+Total discharge power obtained(Watts)=1084.033447
+current required to produced the obtained magnetic field with 2000.000000 per meter coil turns(A)=6.056495
+power required to produced the obtained magnetic field (Watts)=2119.773161
+ion mass flow rate (m^3/s)=0.000005
+Volatage efficiency=0.400000
+current efficiency=0.580975
+Mass utilization efficiency=0.686607
+electrical efficiency=0.632644
+Total Hall thruster efficiency=0.351846
